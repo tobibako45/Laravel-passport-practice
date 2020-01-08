@@ -5,9 +5,10 @@
 
 あとからまとめます。
 
-# Laravelでcloneしたらやること：参考
+### Laravelでcloneしたらやること：参考
 [【初心者向け】Laravel プロジェクトを clone してブラウザ表示するまで \- Qiita](https://qiita.com/avocadoneko/items/04d3c297064ba6e55a33)
 
+<br>
 
 #### １、localhost:8080で立ち上げる
 ```
