@@ -1,5 +1,14 @@
 # お試し
 
+このリポジトリとセットでお試し
+[クライアントアプリ(Laravel\-passportでログインさせる側)](https://github.com/tobibako45/laravel-socialite-practice)
+
+あとからまとめます。
+
+# Laravelでcloneしたらやること：参考
+[【初心者向け】Laravel プロジェクトを clone してブラウザ表示するまで \- Qiita](https://qiita.com/avocadoneko/items/04d3c297064ba6e55a33)
+
+
 #### １、localhost:8080で立ち上げる
 ```
 php artisan serve --port=8080
