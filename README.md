@@ -13,9 +13,15 @@ Laravel-Passportを使っていろいろしたみる。
 
 ### Laravelでcloneしたらやること
 
-Sqliteでやったのでこちらを参考
+SqliteでやったのでこちらをCODEBASE1期生の[@avocadoneko](https://twitter.com/avocadoneko)さんのこちらを参考
 
 [【初心者向け】Laravel プロジェクトを clone してブラウザ表示するまで \- Qiita](https://qiita.com/avocadoneko/items/04d3c297064ba6e55a33)
+
+こちらも
+```
+npm install
+npm run dev
+```
 
 <br>
 
