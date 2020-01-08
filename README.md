@@ -1,11 +1,20 @@
+# 概要
+Laravel-Passportを使っていろいろしたみる。
+
+- Laravel Framework 6.6.1
+- PHP 7.3.12
+- sqlite
+
 # お試し
 
-このリポジトリとセットでお試し
-[クライアントアプリ(Laravel\-passportでログインさせる側)](https://github.com/tobibako45/laravel-socialite-practice)
+このリポジトリ([クライアントアプリ(Laravel\-passportでログインさせる側)](https://github.com/tobibako45/laravel-socialite-practice))とセットでお試し
 
 あとからまとめます。
 
-### Laravelでcloneしたらやること：参考
+### Laravelでcloneしたらやること
+
+Sqliteでやったのでこちらを参考
+
 [【初心者向け】Laravel プロジェクトを clone してブラウザ表示するまで \- Qiita](https://qiita.com/avocadoneko/items/04d3c297064ba6e55a33)
 
 <br>
@@ -40,7 +49,6 @@ PASSPORT_ID=<登録したクライアントID>
 PASSPORT_SECRET=＜登録したクライアントsecret＞
 PASSPORT_REDIRECT_URI=http://localhost:8000/login/passport/callback
 ```
-
 
 <br>
 
