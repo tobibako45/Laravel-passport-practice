@@ -24,10 +24,11 @@ http://localhost:8000/login/passport/callback
 <br>
 
 #### ４、クライアントアプリ側の.envファイルに、登録した情報を記入
-「Client ID」と「Secret」を、[クライアントアプリ(Laravel\-passportでログインさせる側)](https://github.com/tobibako45/laravel-socialite-practice)の「.env」に記入。
+「Client ID」と「Secret」、リダイレクトURIを、[クライアントアプリ(Laravel\-passportでログインさせる側)](https://github.com/tobibako45/laravel-socialite-practice)の「.env」に記入。
 ```
 PASSPORT_ID=<登録したクライアントID>
 PASSPORT_SECRET=＜登録したクライアントsecret＞
+PASSPORT_REDIRECT_URI=http://localhost:8000/login/passport/callback
 ```
 
 
